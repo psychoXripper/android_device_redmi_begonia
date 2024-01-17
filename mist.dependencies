@@ -18,5 +18,9 @@
   {
     "repository" : "android_packages_apps_RevampedFMRadio",
     "target_path": "packages/apps/RevampedFMRadio",
-  }
+  },
+  {
+    "repository" : "vendor_MiuiCameraLeica",
+    "target_path": "vendor/MiuiCameraLeica"
+  },
 ]
